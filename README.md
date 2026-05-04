@@ -75,19 +75,6 @@ Actualmente sigo fortaleciendo mis conocimientos en el ecosistema JavaScript a t
 
 ---
 
-<!-- ## 📌 Proyectos destacados
-
-### Nombre del proyecto
-
-Breve descripción del proyecto, qué problema resuelve y qué tecnologías utilizaste.
-
-- Tecnologías: React, TypeScript, Tailwind CSS
-- Funcionalidades: diseño responsive, componentes reutilizables, consumo de API
-
-[Repositorio](URL) · [Demo](URL)
-
---- -->
-
 ## 💡 Intereses
 
 - Desarrollo de aplicaciones web modernas
@@ -99,7 +86,28 @@ Breve descripción del proyecto, qué problema resuelve y qué tecnologías util
 
 ---
 
-<br/>
+## 📌 Proyectos Destacados
+
+#### TrackiFly (Proyecto grupal – Henry, 2026)
+
+Trackifly es una plataforma web que permite cotizar envíos, seleccionar puntos de retiro y entrega, gestionar pedidos, realizar seguimiento mediante tracking, autenticarse con Google y procesar pagos en línea.
+
+- Rol: Frontend Developer
+- Funcionalidades: Formularios de autenticación/registro, integración de geolocalización, tracking de envios, dashboard de administrador, perfiles e implementación de modo claro y oscuro.
+  [🔗 Repositorio](https://github.com/trackifly-app/Front-TrackiFly)
+
+---
+
+#### AbysStore (Proyecto Full Stack)
+
+Ecommerce especializado en dispositivos Apple, con una interfaz moderna que permite explorar, seleccionar y comprar productos de forma rápida, segura e intuitiva.
+
+- Backend en Node.js con PostgreSQL
+- Autenticación con JWT y gestión de productos
+- UI con Tailwind CSS
+  [🔗 Repositorio](https://github.com/AugustoMC97/AbysStore-Ecommerce)
+
+---
 
 <div align="center">
 
