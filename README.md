@@ -95,7 +95,7 @@ Trackifly es una plataforma web que permite cotizar envíos, seleccionar puntos 
 - Rol: Frontend Developer
 - Funcionalidades: Formularios de autenticación/registro, integración de geolocalización, tracking de envios, dashboard de administrador, perfiles e implementación de modo claro y oscuro.
 - 
-  [🔗 Repositorio](https://github.com/trackifly-app/Front-TrackiFly)
+[🔗 Repositorio](https://github.com/trackifly-app/Front-TrackiFly)
 
 ---
 
@@ -107,7 +107,7 @@ Ecommerce especializado en dispositivos Apple, con una interfaz moderna que perm
 - Autenticación con JWT y gestión de productos
 - UI con Tailwind CSS
 - 
-  [🔗 Repositorio](https://github.com/AugustoMC97/AbysStore-Ecommerce)
+[🔗 Repositorio](https://github.com/AugustoMC97/AbysStore-Ecommerce)
 
 ---
 
